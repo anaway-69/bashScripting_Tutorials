@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+
+
+
+#Not everytime it is possible to read a line using cat or head or strings, so we use While readLine to real a file.This specially helps in CTF
+
+
+
 while read line
 do
       echo "$line"
