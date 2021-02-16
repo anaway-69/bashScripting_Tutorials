@@ -1,0 +1,11 @@
+hello
+This is anaway
+This file contains Secrect password
+And a username
+I will give 4 password, if u see this then you will know what is the real password..
+password = kevin:pasword123
+password = cat=lovefishes
+password = youtbe=plzzsub
+password = twitch=streamiscream
+
+Make sure no-one finds this file!!
